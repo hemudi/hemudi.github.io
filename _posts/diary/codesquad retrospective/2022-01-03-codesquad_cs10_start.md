@@ -67,7 +67,7 @@ OT 의 내용은 코코아를 들어서 그런지 익숙했다.
 생각을 해보니 일일 회고는 매일 일정 시간을 투자해야하는 만큼  
 구구절절하지 않고 짧고 간결하면서 핵심만 담고 있는게 좋을거 같다.  
 내일부터는 양식을 정해 양식대로 따라가봐야겠다.  
-➔ 21/01/04 : [양식을 정했다!]()
+➔ 21/01/04 : [양식을 정했다!](https://hemudi.github.io/diary/daily-retrospective-form/)
 
 ## 효율적인 학습법
 <iframe width="950" height="534" src="https://www.youtube.com/embed/3Ym3MM628bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
